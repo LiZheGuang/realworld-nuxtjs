@@ -1,9 +1,15 @@
 [
   {
-    "name": "index",
     "path": "/",
-    "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_2dad6e96"
+    "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_719c0ed7"
+      }
+    ],
+    "_name": "_fe3111bc"
   }
 ]
