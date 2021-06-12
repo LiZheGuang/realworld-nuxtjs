@@ -17,6 +17,26 @@
         "path": "/register",
         "name": "register",
         "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\profile"
+      },
+      {
+        "path": "/settings",
+        "name": "settings ",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\settings"
+      },
+      {
+        "path": "/editor",
+        "name": "editor ",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\editor"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article ",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\article"
       }
     ]
   }
