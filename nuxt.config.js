@@ -16,8 +16,16 @@ module.exports = {
                     path: '',//默认子路由
                     name: 'home',
                     component: resolve(__dirname, 'pages/home/')
+                }, {
+                    path: '/login',//默认子路由
+                    name: 'login',
+                    component: resolve(__dirname, 'pages/login/')
+                },{
+                    path: '/register',//默认子路由
+                    name: 'register',
+                    component: resolve(__dirname, 'pages/login/')
                 }]
-            }])       
+            }])
         }
     }
 }

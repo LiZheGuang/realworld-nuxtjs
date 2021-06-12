@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _fe3111bc = () => interopDefault(import('..\\pages\\layout' /* webpackChunkName: "" */))
 const _719c0ed7 = () => interopDefault(import('..\\pages\\home' /* webpackChunkName: "" */))
+const _7bc3d71e = () => interopDefault(import('..\\pages\\login' /* webpackChunkName: "" */))
 
 const emptyFn = () => {}
 
@@ -25,6 +26,14 @@ export const routerOptions = {
       path: "",
       component: _719c0ed7,
       name: "home"
+    }, {
+      path: "/login",
+      component: _7bc3d71e,
+      name: "login"
+    }, {
+      path: "/register",
+      component: _7bc3d71e,
+      name: "register"
     }]
   }],
 

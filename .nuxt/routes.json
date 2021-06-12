@@ -6,10 +6,18 @@
       {
         "path": "",
         "name": "home",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_719c0ed7"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login"
       }
-    ],
-    "_name": "_fe3111bc"
+    ]
   }
 ]
