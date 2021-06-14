@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_719c0ed7"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_7bc3d71e"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_7bc3d71e"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\profile"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_e7dce69e"
       },
       {
         "path": "/settings",
         "name": "settings ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\settings"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_f13fcbca"
       },
       {
         "path": "/editor",
         "name": "editor ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\editor"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_75189d65"
       },
       {
         "path": "/article/:slug",
         "name": "article ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\article"
+        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_72dbcffe"
       }
-    ]
+    ],
+    "_name": "_fe3111bc"
   }
 ]

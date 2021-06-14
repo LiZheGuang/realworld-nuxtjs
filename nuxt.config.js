@@ -4,6 +4,7 @@
 
 module.exports = {
     router: {
+        linkExactActiveClass: 'active',
         // resove解析目标位置
         extendRoutes(routes, resolve) {
             // 清除NUXT基于pages目录默认生成的路由表规则

@@ -20,7 +20,7 @@ export const routerOptions = {
   mode: 'history',
   base: '/',
   linkActiveClass: 'nuxt-link-active',
-  linkExactActiveClass: 'nuxt-link-exact-active',
+  linkExactActiveClass: 'active',
   scrollBehavior,
 
   routes: [{
