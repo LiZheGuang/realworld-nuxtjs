@@ -50,7 +50,7 @@ import { login, register } from '@/api/user'
 const Cookie = process.client ? require('js-cookie') : undefined
 
 export default {
-  // middleware: 'notAuthenticated',
+  middleware: 'notAuthenticated',
   name: 'login',
   computed: {
     isLogin () {
@@ -61,8 +61,8 @@ export default {
     return {
       user: {
         username: '',
-        email: 'lpzmail@163.com',
-        password: '12345678'
+        email: '1030660726@qq.com',
+        password: 'a7161089'
       },
       errors: {} // 错误信息
     }
