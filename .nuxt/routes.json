@@ -1,51 +1,43 @@
 [
   {
     "path": "/",
-    "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_719c0ed7"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_7bc3d71e"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_7bc3d71e"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\profile",
-        "_name": "_e7dce69e"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/profile"
       },
       {
         "path": "/settings",
         "name": "settings ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\settings",
-        "_name": "_f13fcbca"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/settings"
       },
       {
         "path": "/editor",
         "name": "editor ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\editor",
-        "_name": "_75189d65"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/editor"
       },
       {
         "path": "/article/:slug",
         "name": "article ",
-        "component": "G:\\\\lagou-js\\\\realworld-nuxtjs\\\\pages\\\\article",
-        "_name": "_72dbcffe"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/article"
       }
-    ],
-    "_name": "_fe3111bc"
+    ]
   }
 ]
