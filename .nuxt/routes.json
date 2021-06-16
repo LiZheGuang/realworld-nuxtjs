@@ -6,38 +6,46 @@
       {
         "path": "",
         "name": "home",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/home"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/home",
+        "_name": "_c276859a"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login",
+        "_name": "_3a0b3195"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/login",
+        "_name": "_3a0b3195"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/profile"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/profile",
+        "_name": "_85a81e56"
       },
       {
         "path": "/settings",
         "name": "settings ",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/settings"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/settings",
+        "_name": "_79923a77"
       },
       {
         "path": "/editor",
         "name": "editor ",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/editor"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/editor",
+        "_name": "_0a61b67e"
       },
       {
         "path": "/article/:slug",
         "name": "article ",
-        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/article"
+        "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/article",
+        "_name": "_b81397bc"
       }
-    ]
+    ],
+    "_name": "_069dfe7e"
   }
 ]

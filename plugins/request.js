@@ -20,8 +20,8 @@ export default ({ store }) => {
   request.interceptors.request.use(function (config) {
     // Do something before request is sent
     // 请求就会经过这里
+    debugger
     const { user } = store.state
-
     if (user && user.token) {
       config.headers.Authorization = `Token ${user.token}`
     }
