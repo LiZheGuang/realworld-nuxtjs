@@ -49,7 +49,7 @@ module.exports = {
               },
               {
                 path: "/article/:slug",
-                name: "article ",
+                name: "article",
                 component: resolve(__dirname, "pages/article/"),
               },
             ],
@@ -66,6 +66,6 @@ module.exports = {
     // 注册插件
     plugins: [
         '~/plugins/request.js',
-        // '~/plugins/dayjs.js'
+        '~/plugins/dayjs.js'
       ]
 };

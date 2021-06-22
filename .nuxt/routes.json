@@ -41,7 +41,7 @@
       },
       {
         "path": "/article/:slug",
-        "name": "article ",
+        "name": "article",
         "component": "/Users/lizheguang/zheGuangCode/lagou-js/realworld-nuxtjs/pages/article",
         "_name": "_b81397bc"
       }
