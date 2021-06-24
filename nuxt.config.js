@@ -69,3 +69,9 @@ module.exports = {
         '~/plugins/dayjs.js'
       ]
 };
+
+
+// scp ./server root@10.9.146.172:/root/
+
+
+// <!-- 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 -->
